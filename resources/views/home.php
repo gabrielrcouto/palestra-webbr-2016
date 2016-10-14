@@ -34,7 +34,7 @@
                     <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 171px; height: 171px; left: 395px; top: 420px;" data-block-id="0b2952c929e2daf90ba77b81e9490b18"><div class="sl-block-content" style="z-index: 14;"><img data-natural-width="200" data-natural-height="200" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3116618/qrcode.png"></div></div>
                 </section>
 
-                <section class="poll" data-number="1">
+                <section class="poll sound-comecar" data-number="1">
                     <p>Você já assistiu uma palestra acessível?</p>
 
                     <div class="button-level" data-value="sim">
