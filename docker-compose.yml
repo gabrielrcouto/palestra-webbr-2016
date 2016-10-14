@@ -1,0 +1,41 @@
+version: '2'
+services:
+  nginx:
+    image: nginx:latest
+    command: "nginx -g 'daemon off;'"
+    links:
+      - php
+      - php-websocket
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx/conf.d:/etc/nginx/conf.d
+      - ./docker/nginx/nginx.conf:/etc/nginx/nginx.conf
+    working_dir: /var/www
+    networks:
+      - main
+  php:
+    image: php:fpm
+    command: "/data/php-fpm.sh"
+    ports:
+      - "9000:9000"
+    volumes:
+      - ./:/var/www
+      - ./docker/php:/data
+    working_dir: /var/www
+    networks:
+      - main
+  php-websocket:
+    image: php:fpm
+    command: "php artisan slides:server"
+    ports:
+      - "7888:7888"
+    volumes:
+      - ./:/var/www
+    working_dir: /var/www
+    networks:
+      - main
+networks:
+  main:
+    driver: bridge
