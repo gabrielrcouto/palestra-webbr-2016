@@ -216,7 +216,7 @@ class SlideMessage extends Message
 
 <section class="has-dark-background" data-id="30db282082a095df5a82e92770c637e3" data-background-color="#000000"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 22px; height: auto;" data-block-id="76eeff53ea6d9ec949e963f9dc1c0ab2">
     <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="color: rgb(255, 255, 255); font-size: 95%;">
-        <h2>Como pessoas cegas assistem palestras não acessíveis</h2>
+        <h3>Como pessoas cegas assistem palestras não acessíveis</h3>
     </div>
 </div>
 <div class="sl-block" data-block-type="image" style="width: 700px; height: 525px; left: 129px; top: 153px;" data-block-id="d5b5cb0fa6891c16296dca310694f84b">
@@ -226,7 +226,7 @@ class SlideMessage extends Message
 </div></section>
 
 <section class="has-dark-background" data-id="631ebddb8e063e19aff6c410616187b9" data-background-color="#000000"><div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 251px;" data-block-id="11ed095443c278b4e091799ea538d8d8"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
-<p>É assim que um deficiente visual enxerga um slide. Se você está lendo isso, significa que utiliza um leitor de tela, pois o fundo está em preto e a letra também.</p>
+<p>É assim que uma pessoa cega enxerga um slide. Se você está lendo isso, significa que utiliza um leitor de tela, pois o fundo está em preto e a letra também.</p>
 </div></div></section>
 
 <section data-id="bc18495d031405228d29729ceff356c6"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 140px; height: auto;" data-block-id="dd73d70850e2319bc63f3a972fdc4ca1"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
@@ -387,7 +387,9 @@ npm install reveal.js</code></pre></div></div></section><section data-id="779483
     <li>JavaScript API;</li>
     <li>e muito mais...</li>
 </ul>
-</div></div></section><section data-id="d56a983b3ab79e116948790106915c2e"><div class="sl-block" data-block-type="iframe" style="min-width: 30px; min-height: 30px; width: 1125px; height: 659px; left: -84px; top: 18px;" data-block-id="8a86c648880d358f00c24a52d67ac5e1"><div class="sl-block-content" style="z-index: 11;"><iframe webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" sandbox="allow-forms allow-scripts allow-popups allow-same-origin allow-pointer-lock" data-src="https://slides.com"></iframe></div></div></section><section data-id="6bb4b1a862d547fc6998d0248b41efe7"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="7dfe79f1da7d5fd14a739826064e5ad6">
+</div></div></section>
+
+<section data-id="6bb4b1a862d547fc6998d0248b41efe7"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="7dfe79f1da7d5fd14a739826064e5ad6">
     <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
         <h2>Cabines de áudio descrição</h2>
     </div>
