@@ -32,7 +32,7 @@ $app->get('/', function () use ($app) {
     $data = [
         'host' => $_SERVER['HTTP_HOST'],
         'mode' => $mode,
-        'websocketsAddress' => 'node108990-webbr.jelasticlw.com.br:11101?session=' . $md5
+        'websocketsAddress' => $host . '/ws/?session=' . $md5
     ];
 
     return view('home', $data);
