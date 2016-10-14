@@ -23,6 +23,9 @@ return i.label=i.label.trim(),i.defaultValue=i.defaultValue.trim(),i.label=i.lab
         e.touch = true;
         e.dependencies.push({ src: 'plugin/multiplex-ratchet/master.js', async: true });
     } else {
+        e.controls = false;
+        e.keyboard = false;
+        e.touch = false;
         e.dependencies.push({ src: 'plugin/multiplex-ratchet/client.js', async: true });
     }
     Reveal.initialize(e)
