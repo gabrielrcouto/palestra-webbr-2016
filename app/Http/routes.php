@@ -27,11 +27,7 @@ $app->get('/', function () use ($app) {
         ]);
     }
 
-    //Caso seja rodado no localhost:8000, por exemplo
-    //retira os : do nome do servidor
     $host = $_SERVER['HTTP_HOST'];
-    $hostExplode = explode(':', $host);
-    $host = $hostExplode[0];
 
     $data = [
         'host' => $_SERVER['HTTP_HOST'],
