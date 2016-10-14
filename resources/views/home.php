@@ -22,8 +22,20 @@
     <body class="reveal-viewport theme-font-montserrat theme-color-white-blue" data-websockets-address="<?php echo $websocketsAddress; ?>" data-mode="<?php echo $mode; ?>">
         <div class="reveal">
             <div class="slides">
-                <section class="poll sound-suspense02" data-number="1">
-                    <p>Você faz isso?</p>
+                <section data-id="410725977df08a73b050a143fbf9b8b0"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 140px; height: auto;" data-block-id="c1ec6639ec3482ee9a7e82a12210d6fd"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11;">
+                    <h1>Palestras acessíveis com reveal.js</h1>
+                    </div></div>
+                    <div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 672px; left: 144px; top: 350px;" data-block-id="c750285e308b1685039a786aa2be4c33"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;" dir="ui">
+                    <p><a href="https://twitter.com/kemelzaidan" target="_blank">@kemelzaidan</a> - <a href="https://twitter.com/leonardo_gf" target="_blank">@leonardo_gf</a> - <a href="https://twitter.com/gabrielrcouto" target="_blank">@gabrielrcouto</a></p>
+                    </div></div>
+                    <div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 591px;" data-block-id="c2db37befc7216aaf48ebc33a542e93b"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 13;">
+                    <p><a href="http://bit.ly/acessibilidade-webbr" target="_blank">Interativa: bit.ly/acessibilidade-webbr</a></p>
+                    </div></div>
+                    <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 171px; height: 171px; left: 395px; top: 420px;" data-block-id="0b2952c929e2daf90ba77b81e9490b18"><div class="sl-block-content" style="z-index: 14;"><img data-natural-width="200" data-natural-height="200" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3116618/qrcode.png"></div></div>
+                </section>
+
+                <section class="poll" data-number="1">
+                    <p>Você já assistiu uma palestra acessível?</p>
 
                     <div class="button-level" data-value="sim">
                         <span>Sim (<b>0</b>)</span>
@@ -35,36 +47,65 @@
                         <div class="level red"></div>
                     </div>
                 </section>
-                <section data-id="410725977df08a73b050a143fbf9b8b0"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 253px; height: auto;" data-block-id="c1ec6639ec3482ee9a7e82a12210d6fd"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
-<h1>Palestras acessíveis com reveal.js</h1>
-</div></div></section><section data-id="4fa0f26499c3753bd58d0bfac07f32d1"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 253px; height: auto;" data-block-id="a5376127e74ebaa2b4fce9148f74833e"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
-<h1>Como tudo começou?</h1>
-</div></div></section><section data-id="9f591e5c1e3f2d4b1dc4b4c0b13b0040"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="b7cd8dc2da87b44c0660ec1346a605d2">
-    <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
-        <h2>Agosto de 2014</h2>
-    </div>
-</div>
-<div class="sl-block" data-block-type="image" style="width: 700px; height: 483.438px; left: 129px; top: 140px;" data-block-id="8e94a6833c398ed4182e442833d52d0f">
-    <div class="sl-block-content">
-        <img style="" data-natural-width="1280" data-natural-height="884" alt="Foto do Gabriel palestrando com um telão no fundo mostrando um slide com o botão amarelo escrito buzinar." data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/592495/images/3108912/Captura_de_Tela_2016-10-12_a_s_15.12.24.png">
-    </div>
-</div></section><section data-id="b0635cecca7484d2b22b96ef4e074c84"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="67cd96f9c6cd5000f167db3bb5056fda"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
-<h1>PHP + Websockets</h1>
-</div></div>
-<div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 288px; height: auto;" data-block-id="98d51f5199582b0c62de26c8ff6e64c3"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
-<h2>Como demonstrar o funcionamento ao vivo?</h2>
-</div></div></section><section data-id="d6e4f18939f0a3c372c69e811bbc935c"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 204px; height: auto;" data-block-id="296180e9b2f4b7808acfab70121a05d1"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
-<h1>E se o público participar da palestra?</h1>
-</div></div></section><section data-id="ccf753f87681c299e4da4e015d2fd59d"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="e9b9265a9575c6f5f90c20170c51ee48">
-    <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
-        <h2>Reveal.js</h2>
-    </div>
-</div>
-<div class="sl-block" data-block-type="image" style="width: 827.647px; height: 490px; left: 66px; top: 140px;" data-block-id="c465a948ff203018c458008e15c74f83">
-    <div class="sl-block-content">
-        <img data-natural-width="1005" data-natural-height="595" alt="Screenshot do perfil do Github do Hakim El Hattab, criador do RevealJS. Na lista de projetos do perfil dele, aparece em primeiro lugar o RevealJS" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3092347/reveal_author.jpg">
-    </div>
-</div></section><section data-id="48442b2e4ae7ec707ffdc8d6591a072c"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 731px; height: 486px; left: 118px; top: 177px;" data-block-id="99b354fd73d45afd5d80d2048b677b7c"><div class="sl-block-content" style="z-index: 11; border-width: 1px;" data-highlight-theme="monokai"><pre class="xml"><code>&lt;section&gt;
+
+                <section data-id="4fa0f26499c3753bd58d0bfac07f32d1">
+                    <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 253px; height: auto;" data-block-id="a5376127e74ebaa2b4fce9148f74833e"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
+                    <h1>Como tudo começou?</h1>
+                    </div></div>
+                </section>
+
+                <section data-id="9f591e5c1e3f2d4b1dc4b4c0b13b0040">
+                    <div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="b7cd8dc2da87b44c0660ec1346a605d2">
+                        <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
+                            <h2>Agosto de 2014</h2>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" style="width: 700px; height: 483.438px; left: 129px; top: 140px;" data-block-id="8e94a6833c398ed4182e442833d52d0f">
+                        <div class="sl-block-content">
+                            <img style="" data-natural-width="1280" data-natural-height="884" alt="Foto do Gabriel palestrando com um telão no fundo mostrando um slide com o botão amarelo escrito buzinar." data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/592495/images/3108912/Captura_de_Tela_2016-10-12_a_s_15.12.24.png">
+                        </div>
+                    </div>
+                </section>
+
+                <section data-id="b0635cecca7484d2b22b96ef4e074c84">
+                    <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="67cd96f9c6cd5000f167db3bb5056fda"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
+                    <h1>PHP + Websockets</h1>
+                    </div></div>
+                    <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 288px; height: auto;" data-block-id="98d51f5199582b0c62de26c8ff6e64c3"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
+                    <h2>Como demonstrar o funcionamento ao vivo?</h2>
+                    </div></div>
+                </section>
+
+                <section data-id="d6e4f18939f0a3c372c69e811bbc935c"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 204px; height: auto;" data-block-id="296180e9b2f4b7808acfab70121a05d1"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
+                <h1>E se o público participar da palestra?</h1>
+                </div></div></section>
+
+                <section class="poll sound-qualresposta" data-number="2">
+                    <p>Já tentou fazer uma apresentação e algo deu errado na hora?</p>
+
+                    <div class="button-level" data-value="sim">
+                        <span>Sim (<b>0</b>)</span>
+                        <div class="level green"></div>
+                    </div>
+
+                    <div class="button-level" data-value="não">
+                        <span>Não (<b>0</b>)</span>
+                        <div class="level red"></div>
+                    </div>
+                </section>
+
+                <section data-id="ccf753f87681c299e4da4e015d2fd59d"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="e9b9265a9575c6f5f90c20170c51ee48">
+                    <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
+                        <h2>Reveal.js</h2>
+                    </div>
+                </div>
+                <div class="sl-block" data-block-type="image" style="width: 827.647px; height: 490px; left: 66px; top: 140px;" data-block-id="c465a948ff203018c458008e15c74f83">
+                    <div class="sl-block-content">
+                        <img data-natural-width="1005" data-natural-height="595" alt="Screenshot do perfil do Github do Hakim El Hattab, criador do RevealJS. Na lista de projetos do perfil dele, aparece em primeiro lugar o RevealJS" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3092347/reveal_author.jpg">
+                    </div>
+                </div></section>
+
+<section data-id="48442b2e4ae7ec707ffdc8d6591a072c"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 731px; height: 486px; left: 118px; top: 177px;" data-block-id="99b354fd73d45afd5d80d2048b677b7c"><div class="sl-block-content" style="z-index: 11; border-width: 1px;" data-highlight-theme="monokai"><pre class="xml"><code>&lt;section&gt;
     &lt;h2&gt;Gosto do PHP porque&lt;/h2&gt;
     &lt;h1&gt;Nós somos piratas!&lt;/h1&gt;
     &lt;p&gt;&lt;img src="images/pirate.gif"/&gt;&lt;/p&gt;
@@ -90,12 +131,16 @@ return view('resultado', ['usuarios' =&gt; $usuarios]);
 &lt;/section&gt;</code></pre></div></div>
 <div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 160px; top: 28px;" data-block-id="e62fedad03a96466c8d7ed719070eb46"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
 <h2>Fazer uma palestra é escrever em HTML</h2>
-</div></div></section><section data-id="721bb8fdb5a23b870c1a513d1ac2e40c"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="54489476bc2677c56242b2c2e96f9339"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
+</div></div></section>
+
+<section data-id="721bb8fdb5a23b870c1a513d1ac2e40c"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="54489476bc2677c56242b2c2e96f9339"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
 <h1>Plugin: Multiplexing</h1>
 </div></div>
 <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 288px; height: auto;" data-block-id="ee76f2ffdfd19f5e5fe880b556988125"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
 <p>allows your audience to view the slides of the presentation you are controlling on their own phone, tablet or laptop</p>
-</div></div></section><section data-id="4b788cb0f32dee5392ddd4d192693ca0"><div class="sl-block" data-block-type="text" style="width: 836px; left: 79px; top: 50px; height: auto;" data-block-id="5b2dc8cb4a773f3adc7a923bd52cfe3d">
+</div></div></section>
+
+<section data-id="4b788cb0f32dee5392ddd4d192693ca0"><div class="sl-block" data-block-type="text" style="width: 836px; left: 79px; top: 50px; height: auto;" data-block-id="5b2dc8cb4a773f3adc7a923bd52cfe3d">
     <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
 <h2>Comunicação via Websocket</h2>
 </div>
@@ -104,7 +149,9 @@ return view('resultado', ['usuarios' =&gt; $usuarios]);
     <div class="sl-block-content" href="">
         <img style="" data-natural-width="871" data-natural-height="900" alt="Foto de uma malha de computadores, conectados a um computador central, dando ideia de uma rede distribuida" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/592495/images/3108956/2000px-Server-based-network.svg.png">
     </div>
-</div></section><section data-id="17ed78d6ae101c95c390e77bfae72f06"><div class="sl-block" data-block-type="code" style="width: 731px; height: 479px; left: 115px; top: 151px;" data-block-id="23c398419b40975a537fc02e351c1807"><div class="sl-block-content" style="z-index: 11; border-width: 1px;" data-highlight-theme="monokai"><pre class="php"><code>// Servidor Websocket em PHP usando Ratchet
+</div></section>
+
+<section data-id="17ed78d6ae101c95c390e77bfae72f06"><div class="sl-block" data-block-type="code" style="width: 731px; height: 479px; left: 115px; top: 151px;" data-block-id="23c398419b40975a537fc02e351c1807"><div class="sl-block-content" style="z-index: 11; border-width: 1px;" data-highlight-theme="monokai"><pre class="php"><code>// Servidor Websocket em PHP usando Ratchet
 
 $loader = require __DIR__.'/vendor/autoload.php';
 
@@ -129,7 +176,9 @@ class SlideMessage extends Message
 } </code></pre></div></div>
 <div class="sl-block" data-block-type="text" style="height: auto; width: 871px; left: 49px; top: 28px;" data-block-id="70ffc5127b179f93ed6a67dbd9748b2e"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12;">
 <h2>Mensagem de troca de slide</h2>
-</div></div></section><section data-id="56ae547fc25a03de2ee456d9438d5b75"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="3e065bcfe3cb87398da076eba27214a1">
+</div></div></section>
+
+<section data-id="56ae547fc25a03de2ee456d9438d5b75"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 50px; height: auto;" data-block-id="3e065bcfe3cb87398da076eba27214a1">
     <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
 <h2>O resultado foi muito bom</h2>
 </div>
@@ -138,7 +187,9 @@ class SlideMessage extends Message
     <div class="sl-block-content">
         <img style="" data-natural-width="480" data-natural-height="249" alt="GIF animado mostrando um palestrante no evento do PHP + Locaweb trocando de slide, e um notebook da plateia mudando para o mesmo slide simultaneamente." data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/592495/images/3109061/out-12-2016_15-46-15.gif">
     </div>
-</div></section><section data-id="fd2f68133d4b9a93e1692eb8226d9a99"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="494001138a856639eb7d982b32bce34e"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
+</div></section>
+
+<section data-id="fd2f68133d4b9a93e1692eb8226d9a99"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="494001138a856639eb7d982b32bce34e"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
 <h2>Acessibilidade por acaso...</h2>
 </div></div>
 <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 264px; height: auto;" data-block-id="f6cd9f8202c8f5119fe577c06569d379"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text">
@@ -147,18 +198,38 @@ class SlideMessage extends Message
     <li>Auditório da Fundação Bienal</li>
     <li>30 de Janeiro de 2016</li>
 </ul>
-</div></div></section><section class="has-dark-background" data-id="30db282082a095df5a82e92770c637e3" data-background-color="#000000"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 22px; height: auto;" data-block-id="76eeff53ea6d9ec949e963f9dc1c0ab2">
+</div></div></section>
+
+                <section class="poll" data-number="3">
+                    <p>Você sabe como funciona um leitor de telas?</p>
+
+                    <div class="button-level" data-value="sim">
+                        <span>Sim (<b>0</b>)</span>
+                        <div class="level green"></div>
+                    </div>
+
+                    <div class="button-level" data-value="não">
+                        <span>Não (<b>0</b>)</span>
+                        <div class="level red"></div>
+                    </div>
+                </section>
+
+<section class="has-dark-background" data-id="30db282082a095df5a82e92770c637e3" data-background-color="#000000"><div class="sl-block" data-block-type="text" style="width: 800px; left: 79px; top: 22px; height: auto;" data-block-id="76eeff53ea6d9ec949e963f9dc1c0ab2">
     <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="color: rgb(255, 255, 255); font-size: 95%;">
-        <h2>Como os cegos assistem palestras não acessíveis</h2>
+        <h2>Como pessoas cegas assistem palestras não acessíveis</h2>
     </div>
 </div>
 <div class="sl-block" data-block-type="image" style="width: 700px; height: 525px; left: 129px; top: 153px;" data-block-id="d5b5cb0fa6891c16296dca310694f84b">
     <div class="sl-block-content">
         <img data-natural-width="480" data-natural-height="360" alt="GIF animado de uma sala de aula, com um aluno caindo da carteira de tanto sono, e outros alunos dormindo segurando o queixo com as mãos" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3105201/bored.gif">
     </div>
-</div></section><section class="has-dark-background" data-id="631ebddb8e063e19aff6c410616187b9" data-background-color="#000000"><div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 251px;" data-block-id="11ed095443c278b4e091799ea538d8d8"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
+</div></section>
+
+<section class="has-dark-background" data-id="631ebddb8e063e19aff6c410616187b9" data-background-color="#000000"><div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 251px;" data-block-id="11ed095443c278b4e091799ea538d8d8"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11;">
 <p>É assim que um deficiente visual enxerga um slide. Se você está lendo isso, significa que utiliza um leitor de tela, pois o fundo está em preto e a letra também.</p>
-</div></div></section><section data-id="bc18495d031405228d29729ceff356c6"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 140px; height: auto;" data-block-id="dd73d70850e2319bc63f3a972fdc4ca1"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
+</div></div></section>
+
+<section data-id="bc18495d031405228d29729ceff356c6"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 140px; height: auto;" data-block-id="dd73d70850e2319bc63f3a972fdc4ca1"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
 <h2>O que aconteceria se amanhã você não pudesse:</h2>
 </div></div>
 <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 303px; height: auto;" data-block-id="b74005b89053c228316f341a88fbcb5f"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text">
@@ -168,7 +239,10 @@ class SlideMessage extends Message
     <li>ver o desktop do seu computador?</li>
     <li>acessar os sites que programou?</li>
 </ul>
-</div></div></section><section data-id="0fac30e91db4510101ba4202c692d27d"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 70px; height: auto;" data-block-id="4a289066dac186f734ae0af620a093bb">
+</div></div></section>
+
+
+<section data-id="0fac30e91db4510101ba4202c692d27d"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 70px; height: auto;" data-block-id="4a289066dac186f734ae0af620a093bb">
     <div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10;">
         <h1>Instalação</h1>
     </div>
@@ -286,7 +360,19 @@ npm install reveal.js</code></pre></div></div></section><section data-id="779483
 &lt;span class="fragments" data-fragment-index="3"&gt;...passo a passo.&lt;/span&gt;</code></pre>
     </div>
 </div></section></section><section class="stack" data-id="a202f9b79d94f57f34a4892a420a63a8"><section class="has-dark-background" data-id="e979a580c744ccb5d7ca1b10779deb63" data-background-color="#3c78d8"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 436px; height: 70px; left: 232px; top: 280px;" data-block-id="599490f05b4053ef4317d4da59e6edef"><div class="sl-block-content" style="z-index: 11;" data-highlight-theme="monokai"><pre class="none"><code>&lt;!-- Background colors --&gt;
-&lt;section data-background-color="#3C78D8"&gt;</code></pre></div></div></section><section class="has-dark-background" data-id="cf774e2ce952f05aada86213d099345b" data-background-image="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3113882/cego.png" data-background-color="#000000" data-background-size="contain"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 490px; height: 30px; left: 230px; top: 320px;" data-block-id="f288c21889174a86c1ea7cc141ac263d"><div class="sl-block-content" style="z-index: 11;" data-highlight-theme="monokai"><pre class="none"><code>&lt;section data-background-image="img/cego.png"&gt;</code></pre></div></div></section><section class="has-dark-background" data-id="aec26a16b5075b63dac0c50bdfc3b758" data-background-image="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3113924/magic.gif" data-background-color="rgb(138,91,82)" data-background-size="contain"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 500px; height: 30px; left: 213px; top: 335px;" data-block-id="bc60891e5fa1ce32e76c2024577bca5a"><div class="sl-block-content" style="z-index: 11;" data-highlight-theme="monokai"><pre class="none"><code>&lt;section data-background-image="img/magic.gif"&gt;</code></pre></div></div></section><section class="has-light-background" data-id="b5bb405d79d9764600b584e8cba170ce" data-background-color="#d5a6bd"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 523px; height: 33px; left: 219px; top: 264px;" data-block-id="87bb865d9b65c3d3db7323b9a792a586">
+&lt;section data-background-color="#3C78D8"&gt;</code></pre></div></div></section><section class="has-dark-background" data-id="cf774e2ce952f05aada86213d099345b" data-background-image="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3113882/cego.png" data-background-color="#000000" data-background-size="contain"><div role="main" aria-label="imagem background com o logo de deficiente visual">
+    <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 490px; height: 30px; left: 230px; top: 320px;" data-block-id="f288c21889174a86c1ea7cc141ac263d">
+        <div class="sl-block-content" style="z-index: 11;" data-highlight-theme="monokai">
+            <pre class="none"><code>&lt;section data-background-image="img/cego.png"&gt;</code></pre>
+        </div>
+    </div>
+</div></section><section class="has-dark-background" data-id="aec26a16b5075b63dac0c50bdfc3b758" data-background-image="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3113924/magic.gif" data-background-color="rgb(138,91,82)" data-background-size="contain"><div role="main" aria-label="meme de um cabeludo falando magic...">
+    <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 500px; height: 30px; left: 213px; top: 335px;" data-block-id="bc60891e5fa1ce32e76c2024577bca5a">
+        <div class="sl-block-content" style="z-index: 11;" data-highlight-theme="monokai">
+            <pre class="none"><code>&lt;section data-background-image="img/magic.gif"&gt;</code></pre>
+        </div>
+    </div>
+</div></section><section class="has-light-background" data-id="b5bb405d79d9764600b584e8cba170ce" data-background-color="#d5a6bd"><div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 523px; height: 33px; left: 219px; top: 264px;" data-block-id="87bb865d9b65c3d3db7323b9a792a586">
     <div class="sl-block-content" style="z-index: 11;" data-highlight-theme="monokai">
         <pre class="none"><code>Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
     </div>
@@ -310,9 +396,11 @@ npm install reveal.js</code></pre></div></div></section><section data-id="779483
     <div class="sl-block-content">
         <img style="" data-natural-width="450" data-natural-height="381" alt="Foto de três cabines, forradas com carpete cinza e com janelas de vidro. Dentro de uma cabine, existe um homem falando ao microfone." data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/592495/images/3111971/2.jpg">
     </div>
-</div></section><section data-id="eab45b1e7ba11fe02c5d2554827c8359"><div class="sl-block" data-block-type="text" style="width: 917px; left: 24px; top: 50px; height: auto;" data-block-id="50b9d268861eb883e6e23011b82fa845">
+</div></section>
+
+<section data-id="eab45b1e7ba11fe02c5d2554827c8359"><div class="sl-block" data-block-type="text" style="width: 917px; left: 24px; top: 50px; height: auto;" data-block-id="50b9d268861eb883e6e23011b82fa845">
     <div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text">
-        <h3>Como os cegos usam smartphone</h3>
+        <h3>Como pessoas cegas usam smartphone</h3>
     </div>
 </div>
 <div class="sl-block" data-block-type="image" style="width: 700px; height: 402.5px; left: 129px; top: 180px;" data-block-id="a25a5b8814b82bbcae11a4f4ffe69aaf">
@@ -330,17 +418,45 @@ npm install reveal.js</code></pre></div></div></section><section data-id="779483
 </div></div>
 <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 385px; height: auto;" data-block-id="b4fd86a5427d55f07e068a600916bcf8"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
 <h2>display: none;</h2>
-</div></div></section><section data-id="b996b54db4b55257af2d01a8232e2ff2"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="3d5f2ee7df81ffe352c7c119e7af2ecf"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
-<h1>TAGs ARIA</h1>
-</div></div>
-<div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 288px; height: auto;" data-block-id="9d941b8aa7298fc4bc2c6f2ee06a6f9f"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
-<h2>Apenas em alguns casos, bem específicos</h2>
-</div></div></section><section data-id="be560a66f7af9ec58585bd14b934477d"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="6fec89cc0eff259b79aa4224cd2bc77f"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
+</div></div></section>
+
+    <section class="poll" data-number="4">
+        <p>Você acha que o código precisa ter algo especial para ser acessível?</p>
+
+        <div class="button-level" data-value="sim">
+            <span>Sim (<b>0</b>)</span>
+            <div class="level green"></div>
+        </div>
+
+        <div class="button-level" data-value="não">
+            <span>Não (<b>0</b>)</span>
+            <div class="level red"></div>
+        </div>
+    </section>
+
+    <section data-id="b996b54db4b55257af2d01a8232e2ff2"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="3d5f2ee7df81ffe352c7c119e7af2ecf"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
+    <h1>TAGs ARIA</h1>
+    </div></div>
+    <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 288px; height: auto;" data-block-id="9d941b8aa7298fc4bc2c6f2ee06a6f9f"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
+    <h2>Apenas em alguns casos, bem específicos</h2>
+    </div></div></section>
+
+<section data-id="be560a66f7af9ec58585bd14b934477d"><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 190px; height: auto;" data-block-id="6fec89cc0eff259b79aa4224cd2bc77f"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text">
 <h1>Imagens</h1>
 </div></div>
 <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 288px; height: auto;" data-block-id="4d50ffffe4796806b764c18748934181"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Subtitle">
 <h2>alt="Nessa foto existe uma pessoa sentada em uma cadeira..."</h2>
 </div></div></section>
+
+<section data-id="6e8bb14ac4a8499fa696de03d0c73ef6" data-background-image="https://s3.amazonaws.com/media-p.slid.es/uploads/43414/images/3116645/robocop-thank-you.gif" class="sound-tchau"><div role="main" aria-label="Gif do Robocop dizendo Thank you for your cooperation">
+    <div class="sl-block" data-block-type="text" style="width: 800px; left: 0px; top: 457px; height: auto;" data-block-id="d1b6614b10cc5a0a855ec675afd866de">
+        <div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 10; color: rgb(255, 255, 255);">
+            <h1>Obrigado!</h1>
+        </div>
+    </div>
+</div></section>
+
+
             </div>
         </div>
 
